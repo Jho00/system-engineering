@@ -4,6 +4,7 @@
 
 #### Техническое задание и формализация требований
 - Стандарты и шаблоны для ТЗ на разработку ПО - [Ссылка](https://habr.com/ru/articles/328822/)
+- C4 notation - [Ссылка](https://habr.com/ru/articles/778726/)
 
 #### Модели данных
 - Data Engineering: Различные корпоративные модели данных - [Ссылка](https://ivan-shamaev.ru/data-engineering-etl-pipeline-data-warehouse-datalake/)
