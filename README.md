@@ -4,8 +4,8 @@
 - [1 семестр](src/content/1-semestr-plan.md)
 
 ### Задачи
-- [Групповой проект - 1 семестр](src/tasks/task_1.MD)
-- [Групповой проект - 2 семестр](src/tasks/task_2.MD)
+- [Групповой проект - 1 семестр](src/tasks/task_1/readme.md)
+- [Групповой проект - 2 семестр](src/tasks/task_2.md)
 
 ### Дополнительный материал:
 - [Литература](src/reading-list/books.MD)
